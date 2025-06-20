@@ -1,6 +1,6 @@
 # gpt_surf
 
-![GPTSurf](https://github.com/0x53656E7468696C/TubeSurf/blob/main/assets/Icon.png)
+![GPTSurf](https://github.com/0x53656E7468696C/gpt_surf/blob/main/lib/core/img/ico.png)
 
 
 ---
@@ -28,6 +28,7 @@
 
 
 ![ON DROID](assets/scr.png)
+![ON DROID](assets/scr1.png)
 
 
 
