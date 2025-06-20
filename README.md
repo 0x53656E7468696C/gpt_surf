@@ -27,8 +27,8 @@
 
 
 
-![ON DROID](assets/scr.png)
-![ON DROID](assets/scr1.png)
+![ON DROID](assets/scr.jpeg)
+![ON DROID](assets/scr1.jpeg)
 
 
 
